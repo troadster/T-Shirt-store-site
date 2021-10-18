@@ -1,0 +1,19 @@
+@font-face {
+	font-family: 'MADELikesSlab';
+	src: url('../fonts/madelikesslab.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/madelikesslab.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/madelikesslab.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/madelikesslab.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/madelikesslab.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/madelikesslab.svg#madelikesslab') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+
+@font-face {
+	font-family: 'IgraSans';
+	src: url('../fonts/igrasans.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/igrasans.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/igrasans.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/igrasans.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/igrasans.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/igrasans.svg#igrasans') format('svg'); /* Chrome < 4, Legacy iOS */
+}
