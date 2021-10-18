@@ -11,6 +11,14 @@ body {
 	
 }
 
+._flyImage {
+
+	opacity: 1;
+	position: fixed;
+	z-index: 100;
+	transition: all 777ms ease 0s;
+}
+
 h2 {
 	margin: 0;
 }
